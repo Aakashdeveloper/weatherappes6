@@ -3,4 +3,4 @@ import request from 'request';
 import path from 'path';
 const __dirname = path.resolve();
 
-"type": "module",
+"type": "module",code
